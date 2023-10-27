@@ -1,4 +1,6 @@
 const config = {
+    user: 'NicoPereira',
+    password:'1234',
     server: 'localhost',
     database: 'biblio-db',
     options: {
