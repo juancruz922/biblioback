@@ -4,6 +4,7 @@ import allRoutes from './routes/allRoutes.js'
 
 const app = express()
 app.set('port', 3001)
+//localhost:3001/
 
 app.use(cors())
 app.use(express.json())
